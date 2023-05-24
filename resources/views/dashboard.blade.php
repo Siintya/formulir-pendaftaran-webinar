@@ -131,17 +131,6 @@
               </tr>
             @endif
           </tbody>
-          <tfoot>
-            <tr>
-              <th class="text-center fw-bold">No</th>
-              <th class="text-center fw-bold">Foto</th>
-              <th class="text-center fw-bold">Nama</th>
-              <th class="text-center fw-bold">Email</th>
-              <th class="text-center fw-bold">No. Telepon</th>
-              <th class="text-center fw-bold">Perusahaan</th>
-              <th class="text-center fw-bold">Tanggal</th>
-            </tr>
-          </tfoot>
       </table>
     </div>
 @endsection
